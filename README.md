@@ -23,6 +23,12 @@ This comprehensive tutorial delves into the world of Snowflake tasks and streams
 
 [Link to Tutorial](https://github.com/ElliottFairhall/Snowflake_Tasks_Streams)
 
+**Snowflake Dynamic Tables Tutorial** ❄️🌫️
+
+This comprehensive tutorial delves into the world of Snowflake Dynamic Tables, exploring the uses, capabilities and how to leverage this new object to create a STAR Schema.
+
+[Link to Tutorial](https://github.com/ElliottFairhall/Snowflake_Dynamic_Tables)
+
 ## Stay Connected 📢
 
 I regularly update this repository with new tutorials and explanations of key concepts within the Snowflake platform. 
